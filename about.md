@@ -26,49 +26,36 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![Our Team](dog.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+The Minespace Team is a dedicated group of professionals working in an agile scrum development environment to bring Minespace and Core to life.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+## Our Mission
 
-## Features
+At Minespace, our mission is to create innovative and cutting-edge solutions for the mining industry. We strive to develop state-of-the-art technologies that optimize mining operations, enhance safety measures, and minimize environmental impact.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+## Our Approach
 
-## Skins
+We follow the agile scrum methodology, allowing us to adapt quickly to evolving requirements and deliver high-quality results efficiently. Our team members collaborate closely, leveraging their diverse expertise to develop robust and reliable software solutions for the mining industry.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+## Meet Our Team
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+### John Smith - Project Manager
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+John is an experienced project manager with a passion for driving successful software development projects. He ensures that the Minespace team stays on track and delivers exceptional results on time.
 
-### Highlight Theme
+### Sarah Johnson - Lead Developer
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+Sarah is a talented and innovative developer who leads the technical aspects of the Minespace project. Her expertise in software development and mining operations allows her to design and implement cutting-edge solutions.
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+### David Thompson - UX/UI Designer
+
+David is a creative UX/UI designer who focuses on enhancing user experience and creating intuitive interfaces for Minespace and Core. He ensures that the software is user-friendly and visually appealing.
+
+### Lisa Adams - Quality Assurance Analyst
+
+Lisa is a meticulous quality assurance analyst who conducts thorough testing to ensure that Minespace and Core meet the highest standards of performance and reliability. Her attention to detail guarantees a smooth user experience.
+
+## Contact Us
+
+If you have any inquiries or would like to learn more about Minespace and Core, please feel free to reach out to our team at [email protected]

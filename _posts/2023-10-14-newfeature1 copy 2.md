@@ -1,6 +1,6 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: Sample Feature Announcement 3
+tags: New_Features
 article_header:
   type: cover
   image:

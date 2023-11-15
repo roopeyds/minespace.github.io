@@ -55,7 +55,7 @@ header:
       # @start locale config
       en      : &EN       Minespace Guide
     
-    url: /minespaceguide.html
+    url: /2023/11/14/getting-started.html
 
 docs-en:
   - title:      Start
@@ -71,3 +71,37 @@ docs-en:
         url:    /docs/en/configuration
       - title:  Navigation
         url:    /docs/en/navigation
+
+ms-guide:
+  - title:      Minespace Guide
+    children:
+      - title:  Getting Started
+        url:    /docs/en/quick-start
+      - title:  Current Features 
+        url:    /docs/en/structure
+
+  - title:      View Mine Information
+    children:
+      - title:  View All Mines   
+        url:    /docs/en/configuration
+      - title:  View Your X
+        url:    /docs/en/navigation
+      - title:  View Your Permits
+        url:    /docs/en/navigation
+        
+  - title:      Getting Minespace Access
+    children:
+      - title:  Request Minespace Access   
+        url:    /docs/en/configuration
+      - title:  How to get a BCeiD
+        url:    /docs/en/navigation
+    
+  - title:      Creating Submissions
+    children:
+      - title:  Submission Types Available   
+        url:    /docs/en/configuration
+      - title:  Code Required Reports
+        url:    /docs/en/navigation
+      - title:  Permit Required Reports
+        url:    /docs/en/navigation
+
